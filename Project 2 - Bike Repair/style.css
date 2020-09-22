@@ -264,3 +264,8 @@ option {
 .grey_color {
     color: gray;
 }
+
+.date {
+    margin-left: 1rem;
+    border-radius: 2px;
+}
